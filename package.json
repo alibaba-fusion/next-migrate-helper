@@ -1,5 +1,5 @@
 {
-  "name": "@ali/next-migrate-helper",
+  "name": "@alifd/next-migrate-helper",
   "version": "1.1.5",
   "description": "a toolkit for updating Next Components",
   "main": "index.js",
